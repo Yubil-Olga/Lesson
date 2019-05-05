@@ -1,5 +1,6 @@
 .my-gallery {
   column-count: 4;
+  background-color: green;
 }
 .my-gallery img {
   width: 100%;
